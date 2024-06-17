@@ -1,0 +1,20 @@
+repo_name: Achufam24/node-crash-course
+report_id: 67e406a4e679e40d5e080205405a3b12
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-17T09:04:17+00:00'
+requested_by: iamshaunjp
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Achufam24/node-crash-course
+  detection_source: Repo Metadata
